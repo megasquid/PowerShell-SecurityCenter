@@ -1,2 +1,2 @@
 # PowerShell-SecurityCenter
-PowerShell implementation of Tennable SecurityCenter 4.8 API
+PowerShell implementation of Tennable SecurityCenter 5.x API
